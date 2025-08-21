@@ -1,0 +1,28 @@
+{
+  "dataset_info": {
+    "hospital_name": "Centre Hospitalier Universitaire de Kigali (CHUK)",
+    "data_period": "2025-01-01 to 2025-08-19",
+    "generation_date": "2025-08-19T03:00:43.423869",
+    "total_records": 516020
+  },
+  "entity_counts": {
+    "departments": 20,
+    "doctors": 200,
+    "nurses": 500,
+    "patients": 15000,
+    "medical_equipment": 300,
+    "appointments": 100000,
+    "admissions": 25000,
+    "medical_records": 80000,
+    "laboratory_tests": 120000,
+    "prescriptions": 90000,
+    "billing_records": 85000
+  },
+  "data_quality_notes": [
+    "All patient data is synthetic and complies with privacy regulations",
+    "Medical conditions and treatments are realistic but randomly assigned",
+    "Cost figures are in Rwandan Francs (RWF)",
+    "Time-series data spans from January 2025 to present",
+    "Insurance coverage reflects typical Rwandan health insurance patterns"
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "department_id": "DEPT_000",
+    "name": "Cardiology",
+    "head_doctor": "CHUK_DOC_13DA0B",
+    "location": "Building A, Floor 1",
+    "bed_capacity": 55,
+    "equipment_count": 12,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_001",
+    "name": "Neurology",
+    "head_doctor": "CHUK_DOC_96D284",
+    "location": "Building B, Floor 2",
+    "bed_capacity": 33,
+    "equipment_count": 22,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_002",
+    "name": "Oncology",
+    "head_doctor": "CHUK_DOC_32BE91",
+    "location": "Building A, Floor 5",
+    "bed_capacity": 74,
+    "equipment_count": 6,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_003",
+    "name": "Pediatrics",
+    "head_doctor": "CHUK_DOC_1A9A71",
+    "location": "Building A, Floor 1",
+    "bed_capacity": 47,
+    "equipment_count": 12,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_004",
+    "name": "Obstetrics",
+    "head_doctor": "CHUK_DOC_B07F0B",
+    "location": "Building A, Floor 5",
+    "bed_capacity": 45,
+    "equipment_count": 25,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_005",
+    "name": "Orthopedics",
+    "head_doctor": "CHUK_DOC_41756C",
+    "location": "Building D, Floor 2",
+    "bed_capacity": 77,
+    "equipment_count": 23,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_006",
+    "name": "Dermatology",
+    "head_doctor": "CHUK_DOC_099E78",
+    "location": "Building C, Floor 1",
+    "bed_capacity": 40,
+    "equipment_count": 18,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_007",
+    "name": "Emergency Medicine",
+    "head_doctor": "CHUK_DOC_1DEEFE",
+    "location": "Building C, Floor 3",
+    "bed_capacity": 50,
+    "equipment_count": 9,
+    "operational_hours": "24/7"
+  },
+  {
+    "department_id": "DEPT_008",
+    "name": "Internal Medicine",
+    "head_doctor": "CHUK_DOC_3A0D39",
+    "location": "Building B, Floor 3",
+    "bed_capacity": 33,
+    "equipment_count": 7,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_009",
+    "name": "Surgery",
+    "head_doctor": "CHUK_DOC_537DAA",
+    "location": "Building D, Floor 1",
+    "bed_capacity": 65,
+    "equipment_count": 16,
+    "operational_hours": "24/7"
+  },
+  {
+    "department_id": "DEPT_010",
+    "name": "Radiology",
+    "head_doctor": "CHUK_DOC_19B958",
+    "location": "Building C, Floor 1",
+    "bed_capacity": 78,
+    "equipment_count": 22,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_011",
+    "name": "Psychiatry",
+    "head_doctor": "CHUK_DOC_66F2DE",
+    "location": "Building A, Floor 4",
+    "bed_capacity": 30,
+    "equipment_count": 22,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_012",
+    "name": "Anesthesiology",
+    "head_doctor": "CHUK_DOC_93F5F0",
+    "location": "Building C, Floor 5",
+    "bed_capacity": 66,
+    "equipment_count": 23,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_013",
+    "name": "Pathology",
+    "head_doctor": "CHUK_DOC_6CBDE2",
+    "location": "Building B, Floor 1",
+    "bed_capacity": 25,
+    "equipment_count": 12,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_014",
+    "name": "Family Medicine",
+    "head_doctor": "CHUK_DOC_B659A0",
+    "location": "Building C, Floor 1",
+    "bed_capacity": 49,
+    "equipment_count": 8,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_015",
+    "name": "Infectious Disease",
+    "head_doctor": "CHUK_DOC_B54733",
+    "location": "Building D, Floor 3",
+    "bed_capacity": 78,
+    "equipment_count": 25,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_016",
+    "name": "Gastroenterology",
+    "head_doctor": "CHUK_DOC_FEF4B4",
+    "location": "Building C, Floor 2",
+    "bed_capacity": 67,
+    "equipment_count": 16,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_017",
+    "name": "Endocrinology",
+    "head_doctor": "CHUK_DOC_4F0E3A",
+    "location": "Building B, Floor 3",
+    "bed_capacity": 29,
+    "equipment_count": 24,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_018",
+    "name": "Nephrology",
+    "head_doctor": "CHUK_DOC_655E80",
+    "location": "Building B, Floor 5",
+    "bed_capacity": 51,
+    "equipment_count": 10,
+    "operational_hours": "08:00-17:00"
+  },
+  {
+    "department_id": "DEPT_019",
+    "name": "Pulmonology",
+    "head_doctor": "CHUK_DOC_9F36BF",
+    "location": "Building D, Floor 4",
+    "bed_capacity": 54,
+    "equipment_count": 25,
+    "operational_hours": "08:00-17:00"
+  }
+]

@@ -1,0 +1,3602 @@
+[
+  {
+    "doctor_id": "CHUK_DOC_9744E8",
+    "first_name": "Fidele",
+    "last_name": "Kayitesi",
+    "gender": "Male",
+    "specialty": "Neurology",
+    "department_id": "DEPT_004",
+    "license_number": "RW_MD_245051",
+    "years_experience": 18,
+    "education": "MD, PhD",
+    "hire_date": "2023-03-13T14:14:24.056226",
+    "contact_info": {
+      "phone": "+250712201654",
+      "email": "fidele.kayitesi@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 45139.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_3A0D39",
+    "first_name": "Damascene",
+    "last_name": "Nsengimana",
+    "gender": "Male",
+    "specialty": "Pathology",
+    "department_id": "DEPT_008",
+    "license_number": "RW_MD_632342",
+    "years_experience": 5,
+    "education": "MD, MSc",
+    "hire_date": "2020-02-15T16:04:16.812761",
+    "contact_info": {
+      "phone": "+250740056581",
+      "email": "damascene.nsengimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 32768.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_3C2689",
+    "first_name": "David",
+    "last_name": "Ntawukuriryayo",
+    "gender": "Male",
+    "specialty": "Orthopedics",
+    "department_id": "DEPT_011",
+    "license_number": "RW_MD_676510",
+    "years_experience": 7,
+    "education": "MD, PhD",
+    "hire_date": "2021-05-17T04:53:05.453550",
+    "contact_info": {
+      "phone": "+250770823176",
+      "email": "david.ntawukuriryayo@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 29810.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_EF7A1B",
+    "first_name": "Sylvestre",
+    "last_name": "Murekezi",
+    "gender": "Male",
+    "specialty": "Dermatology",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_324643",
+    "years_experience": 19,
+    "education": "MD",
+    "hire_date": "2021-02-11T13:59:14.599082",
+    "contact_info": {
+      "phone": "+250797086737",
+      "email": "sylvestre.murekezi@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 35167.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_A6B2B6",
+    "first_name": "Martin",
+    "last_name": "Nyampinga",
+    "gender": "Male",
+    "specialty": "Pathology",
+    "department_id": "DEPT_018",
+    "license_number": "RW_MD_947272",
+    "years_experience": 29,
+    "education": "MD, MSc",
+    "hire_date": "2023-09-06T19:06:52.162285",
+    "contact_info": {
+      "phone": "+250713141087",
+      "email": "martin.nyampinga@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 37825.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_CB3E9B",
+    "first_name": "Patrick",
+    "last_name": "Mukashema",
+    "gender": "Male",
+    "specialty": "Orthopedics",
+    "department_id": "DEPT_004",
+    "license_number": "RW_MD_884309",
+    "years_experience": 12,
+    "education": "MD",
+    "hire_date": "2023-05-20T15:40:42.012558",
+    "contact_info": {
+      "phone": "+250706729990",
+      "email": "patrick.mukashema@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 31688.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_20C71E",
+    "first_name": "Emmanuel",
+    "last_name": "Niyigena",
+    "gender": "Male",
+    "specialty": "Oncology",
+    "department_id": "DEPT_018",
+    "license_number": "RW_MD_431535",
+    "years_experience": 26,
+    "education": "MD",
+    "hire_date": "2024-06-17T02:52:38.550350",
+    "contact_info": {
+      "phone": "+250701250299",
+      "email": "emmanuel.niyigena@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 36741.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_587EF6",
+    "first_name": "Patrick",
+    "last_name": "Murekezi",
+    "gender": "Male",
+    "specialty": "Dermatology",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_680097",
+    "years_experience": 6,
+    "education": "MD, PhD",
+    "hire_date": "2020-06-07T18:00:26.644145",
+    "contact_info": {
+      "phone": "+250737816686",
+      "email": "patrick.murekezi@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 22372.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_889930",
+    "first_name": "Beatrice",
+    "last_name": "Ntaganda",
+    "gender": "Female",
+    "specialty": "Gastroenterology",
+    "department_id": "DEPT_013",
+    "license_number": "RW_MD_679364",
+    "years_experience": 6,
+    "education": "MD, PhD",
+    "hire_date": "2022-02-09T10:18:06.573194",
+    "contact_info": {
+      "phone": "+250717105448",
+      "email": "beatrice.ntaganda@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 25789.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_BC8612",
+    "first_name": "Robert",
+    "last_name": "Muhire",
+    "gender": "Male",
+    "specialty": "Dermatology",
+    "department_id": "DEPT_009",
+    "license_number": "RW_MD_379766",
+    "years_experience": 7,
+    "education": "MD, MSc",
+    "hire_date": "2020-02-24T09:50:00.040754",
+    "contact_info": {
+      "phone": "+250714508349",
+      "email": "robert.muhire@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 45526.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_98EE19",
+    "first_name": "Christine",
+    "last_name": "Habimana",
+    "gender": "Female",
+    "specialty": "Family Medicine",
+    "department_id": "DEPT_003",
+    "license_number": "RW_MD_213668",
+    "years_experience": 21,
+    "education": "MD, PhD",
+    "hire_date": "2021-02-03T05:35:26.188055",
+    "contact_info": {
+      "phone": "+250746397338",
+      "email": "christine.habimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 42525.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_F2F5A8",
+    "first_name": "Xaverine",
+    "last_name": "Nyirahabimana",
+    "gender": "Female",
+    "specialty": "Anesthesiology",
+    "department_id": "DEPT_009",
+    "license_number": "RW_MD_521947",
+    "years_experience": 24,
+    "education": "MD, PhD",
+    "hire_date": "2022-07-11T18:41:24.525030",
+    "contact_info": {
+      "phone": "+250774411983",
+      "email": "xaverine.nyirahabimana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 21714.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_0F7878",
+    "first_name": "Francine",
+    "last_name": "Sibomana",
+    "gender": "Female",
+    "specialty": "Surgery",
+    "department_id": "DEPT_009",
+    "license_number": "RW_MD_805477",
+    "years_experience": 11,
+    "education": "MD",
+    "hire_date": "2020-02-18T10:54:44.407532",
+    "contact_info": {
+      "phone": "+250726726767",
+      "email": "francine.sibomana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 15855.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_D30118",
+    "first_name": "Antoine",
+    "last_name": "Hakizimana",
+    "gender": "Male",
+    "specialty": "Family Medicine",
+    "department_id": "DEPT_017",
+    "license_number": "RW_MD_800005",
+    "years_experience": 18,
+    "education": "MD, MSc",
+    "hire_date": "2020-12-29T01:51:40.333290",
+    "contact_info": {
+      "phone": "+250779920257",
+      "email": "antoine.hakizimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 48251.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_452F67",
+    "first_name": "Xaverine",
+    "last_name": "Nzeyimana",
+    "gender": "Female",
+    "specialty": "Endocrinology",
+    "department_id": "DEPT_012",
+    "license_number": "RW_MD_167348",
+    "years_experience": 15,
+    "education": "MD, PhD",
+    "hire_date": "2023-04-01T16:32:08.164499",
+    "contact_info": {
+      "phone": "+250744410148",
+      "email": "xaverine.nzeyimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 31307.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_B694E5",
+    "first_name": "Joseph",
+    "last_name": "Munyakazi",
+    "gender": "Male",
+    "specialty": "Anesthesiology",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_801364",
+    "years_experience": 23,
+    "education": "MD, PhD",
+    "hire_date": "2022-09-22T01:30:55.605439",
+    "contact_info": {
+      "phone": "+250797197979",
+      "email": "joseph.munyakazi@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 44418.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_E7F5C0",
+    "first_name": "Bosco",
+    "last_name": "Murekezi",
+    "gender": "Male",
+    "specialty": "Cardiology",
+    "department_id": "DEPT_007",
+    "license_number": "RW_MD_335113",
+    "years_experience": 22,
+    "education": "MD",
+    "hire_date": "2021-02-06T12:35:23.353121",
+    "contact_info": {
+      "phone": "+250787477029",
+      "email": "bosco.murekezi@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 41398.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_E8130B",
+    "first_name": "Joseph",
+    "last_name": "Mukamana",
+    "gender": "Male",
+    "specialty": "Pulmonology",
+    "department_id": "DEPT_007",
+    "license_number": "RW_MD_179688",
+    "years_experience": 20,
+    "education": "MD, MSc",
+    "hire_date": "2022-12-11T23:58:45.588640",
+    "contact_info": {
+      "phone": "+250784187049",
+      "email": "joseph.mukamana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 18567.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_3214B6",
+    "first_name": "Solange",
+    "last_name": "Sibomana",
+    "gender": "Female",
+    "specialty": "Neurology",
+    "department_id": "DEPT_008",
+    "license_number": "RW_MD_965845",
+    "years_experience": 25,
+    "education": "MD, MSc",
+    "hire_date": "2024-01-18T00:28:49.200417",
+    "contact_info": {
+      "phone": "+250736023439",
+      "email": "solange.sibomana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 44810.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_FF0CB0",
+    "first_name": "Claude",
+    "last_name": "Twagirumukiza",
+    "gender": "Male",
+    "specialty": "Emergency Medicine",
+    "department_id": "DEPT_015",
+    "license_number": "RW_MD_777278",
+    "years_experience": 24,
+    "education": "MD, PhD",
+    "hire_date": "2020-01-12T20:48:05.918873",
+    "contact_info": {
+      "phone": "+250760152969",
+      "email": "claude.twagirumukiza@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 18257.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_C76D3E",
+    "first_name": "Fabrice",
+    "last_name": "Mukashema",
+    "gender": "Male",
+    "specialty": "Surgery",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_205409",
+    "years_experience": 28,
+    "education": "MD",
+    "hire_date": "2024-01-11T10:13:22.412355",
+    "contact_info": {
+      "phone": "+250739761527",
+      "email": "fabrice.mukashema@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 27631.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_1EE998",
+    "first_name": "Marie",
+    "last_name": "Murekezi",
+    "gender": "Female",
+    "specialty": "Obstetrics",
+    "department_id": "DEPT_000",
+    "license_number": "RW_MD_259097",
+    "years_experience": 6,
+    "education": "MD, MSc",
+    "hire_date": "2023-06-28T19:15:39.045471",
+    "contact_info": {
+      "phone": "+250740780112",
+      "email": "marie.murekezi@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 49787.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_655E80",
+    "first_name": "Faustin",
+    "last_name": "Munyakazi",
+    "gender": "Male",
+    "specialty": "Pulmonology",
+    "department_id": "DEPT_018",
+    "license_number": "RW_MD_572387",
+    "years_experience": 24,
+    "education": "MD, MSc",
+    "hire_date": "2021-09-13T07:08:19.089184",
+    "contact_info": {
+      "phone": "+250763070585",
+      "email": "faustin.munyakazi@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 16142.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_701D16",
+    "first_name": "Harriet",
+    "last_name": "Uwimana",
+    "gender": "Female",
+    "specialty": "Oncology",
+    "department_id": "DEPT_017",
+    "license_number": "RW_MD_385470",
+    "years_experience": 18,
+    "education": "MD, MSc",
+    "hire_date": "2020-10-10T21:44:00.959105",
+    "contact_info": {
+      "phone": "+250766276072",
+      "email": "harriet.uwimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 17815.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_3E645F",
+    "first_name": "Robert",
+    "last_name": "Nzeyimana",
+    "gender": "Male",
+    "specialty": "Radiology",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_464863",
+    "years_experience": 15,
+    "education": "MD, PhD",
+    "hire_date": "2024-10-13T20:54:20.435004",
+    "contact_info": {
+      "phone": "+250743091709",
+      "email": "robert.nzeyimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 18661.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_C60EE5",
+    "first_name": "Gilbert",
+    "last_name": "Munyakazi",
+    "gender": "Male",
+    "specialty": "Infectious Disease",
+    "department_id": "DEPT_000",
+    "license_number": "RW_MD_380028",
+    "years_experience": 19,
+    "education": "MD",
+    "hire_date": "2021-09-06T14:55:09.642057",
+    "contact_info": {
+      "phone": "+250738658617",
+      "email": "gilbert.munyakazi@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 45830.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_784925",
+    "first_name": "Solange",
+    "last_name": "Mukamana",
+    "gender": "Female",
+    "specialty": "Pulmonology",
+    "department_id": "DEPT_005",
+    "license_number": "RW_MD_728492",
+    "years_experience": 18,
+    "education": "MD, MSc",
+    "hire_date": "2020-06-18T08:29:37.825050",
+    "contact_info": {
+      "phone": "+250718321839",
+      "email": "solange.mukamana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 24669.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_19307C",
+    "first_name": "Kevine",
+    "last_name": "Niyigena",
+    "gender": "Female",
+    "specialty": "Internal Medicine",
+    "department_id": "DEPT_017",
+    "license_number": "RW_MD_595951",
+    "years_experience": 24,
+    "education": "MD, PhD",
+    "hire_date": "2020-06-25T14:29:54.594059",
+    "contact_info": {
+      "phone": "+250751818612",
+      "email": "kevine.niyigena@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 42734.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_EBDA5E",
+    "first_name": "Antoine",
+    "last_name": "Niyonzima",
+    "gender": "Male",
+    "specialty": "Obstetrics",
+    "department_id": "DEPT_011",
+    "license_number": "RW_MD_432043",
+    "years_experience": 22,
+    "education": "MD, MSc",
+    "hire_date": "2024-03-27T12:35:35.198920",
+    "contact_info": {
+      "phone": "+250765491202",
+      "email": "antoine.niyonzima@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 16256.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_6CBDE2",
+    "first_name": "Eric",
+    "last_name": "Nsabimana",
+    "gender": "Male",
+    "specialty": "Emergency Medicine",
+    "department_id": "DEPT_013",
+    "license_number": "RW_MD_816318",
+    "years_experience": 9,
+    "education": "MD, PhD",
+    "hire_date": "2023-01-07T09:41:22.555042",
+    "contact_info": {
+      "phone": "+250778270025",
+      "email": "eric.nsabimana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 23127.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_59FE76",
+    "first_name": "Therese",
+    "last_name": "Ntaganda",
+    "gender": "Female",
+    "specialty": "Cardiology",
+    "department_id": "DEPT_000",
+    "license_number": "RW_MD_970357",
+    "years_experience": 23,
+    "education": "MD, PhD",
+    "hire_date": "2024-01-13T19:35:22.012715",
+    "contact_info": {
+      "phone": "+250736840133",
+      "email": "therese.ntaganda@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 34808.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_0DEB36",
+    "first_name": "Sylvestre",
+    "last_name": "Mutabazi",
+    "gender": "Male",
+    "specialty": "Surgery",
+    "department_id": "DEPT_011",
+    "license_number": "RW_MD_284171",
+    "years_experience": 8,
+    "education": "MD",
+    "hire_date": "2023-08-25T11:45:56.952251",
+    "contact_info": {
+      "phone": "+250772398083",
+      "email": "sylvestre.mutabazi@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 33580.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_8DE2B6",
+    "first_name": "Jeannette",
+    "last_name": "Ntaganda",
+    "gender": "Female",
+    "specialty": "Infectious Disease",
+    "department_id": "DEPT_007",
+    "license_number": "RW_MD_712955",
+    "years_experience": 14,
+    "education": "MD, MSc",
+    "hire_date": "2022-09-06T03:39:35.567679",
+    "contact_info": {
+      "phone": "+250749858348",
+      "email": "jeannette.ntaganda@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 38619.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_C82C1D",
+    "first_name": "Grace",
+    "last_name": "Kalisa",
+    "gender": "Female",
+    "specialty": "Radiology",
+    "department_id": "DEPT_014",
+    "license_number": "RW_MD_861894",
+    "years_experience": 6,
+    "education": "MD, PhD",
+    "hire_date": "2024-11-11T21:49:30.866275",
+    "contact_info": {
+      "phone": "+250787902129",
+      "email": "grace.kalisa@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 44179.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_18C16D",
+    "first_name": "Gisele",
+    "last_name": "Niyonzima",
+    "gender": "Female",
+    "specialty": "Psychiatry",
+    "department_id": "DEPT_008",
+    "license_number": "RW_MD_925206",
+    "years_experience": 20,
+    "education": "MD",
+    "hire_date": "2021-11-22T04:53:25.968404",
+    "contact_info": {
+      "phone": "+250709208698",
+      "email": "gisele.niyonzima@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 22251.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_20347F",
+    "first_name": "Michel",
+    "last_name": "Rutayisire",
+    "gender": "Male",
+    "specialty": "Radiology",
+    "department_id": "DEPT_008",
+    "license_number": "RW_MD_599380",
+    "years_experience": 16,
+    "education": "MD, PhD",
+    "hire_date": "2022-10-05T00:37:43.049705",
+    "contact_info": {
+      "phone": "+250768885632",
+      "email": "michel.rutayisire@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 18817.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_7F7FB9",
+    "first_name": "Bosco",
+    "last_name": "Niyonzima",
+    "gender": "Male",
+    "specialty": "Gastroenterology",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_734836",
+    "years_experience": 15,
+    "education": "MD",
+    "hire_date": "2024-02-23T11:49:48.022404",
+    "contact_info": {
+      "phone": "+250794191239",
+      "email": "bosco.niyonzima@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 44848.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_4F0E3A",
+    "first_name": "Pierre",
+    "last_name": "Twagirumukiza",
+    "gender": "Male",
+    "specialty": "Emergency Medicine",
+    "department_id": "DEPT_017",
+    "license_number": "RW_MD_228168",
+    "years_experience": 15,
+    "education": "MD, PhD",
+    "hire_date": "2023-02-03T10:00:34.659399",
+    "contact_info": {
+      "phone": "+250789300492",
+      "email": "pierre.twagirumukiza@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 45383.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_B138F5",
+    "first_name": "Vincent",
+    "last_name": "Munyangabe",
+    "gender": "Male",
+    "specialty": "Psychiatry",
+    "department_id": "DEPT_000",
+    "license_number": "RW_MD_289179",
+    "years_experience": 10,
+    "education": "MD, MSc",
+    "hire_date": "2024-04-22T11:26:35.517190",
+    "contact_info": {
+      "phone": "+250741471222",
+      "email": "vincent.munyangabe@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 27286.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_876B62",
+    "first_name": "Pascal",
+    "last_name": "Mukamusoni",
+    "gender": "Male",
+    "specialty": "Nephrology",
+    "department_id": "DEPT_014",
+    "license_number": "RW_MD_609253",
+    "years_experience": 21,
+    "education": "MD, PhD",
+    "hire_date": "2022-11-20T05:52:49.489436",
+    "contact_info": {
+      "phone": "+250755590800",
+      "email": "pascal.mukamusoni@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 22545.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_B7A071",
+    "first_name": "Alain",
+    "last_name": "Nzeyimana",
+    "gender": "Male",
+    "specialty": "Pediatrics",
+    "department_id": "DEPT_011",
+    "license_number": "RW_MD_175576",
+    "years_experience": 14,
+    "education": "MD, MSc",
+    "hire_date": "2023-07-10T13:09:22.141018",
+    "contact_info": {
+      "phone": "+250705677713",
+      "email": "alain.nzeyimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 15656.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_858F00",
+    "first_name": "Pascal",
+    "last_name": "Kayitesi",
+    "gender": "Male",
+    "specialty": "Nephrology",
+    "department_id": "DEPT_006",
+    "license_number": "RW_MD_180089",
+    "years_experience": 18,
+    "education": "MD, MSc",
+    "hire_date": "2020-03-24T16:12:28.041573",
+    "contact_info": {
+      "phone": "+250715304396",
+      "email": "pascal.kayitesi@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 32848.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_9BB766",
+    "first_name": "Louise",
+    "last_name": "Mukamusoni",
+    "gender": "Female",
+    "specialty": "Emergency Medicine",
+    "department_id": "DEPT_003",
+    "license_number": "RW_MD_563688",
+    "years_experience": 22,
+    "education": "MD, PhD",
+    "hire_date": "2021-02-20T03:24:50.515752",
+    "contact_info": {
+      "phone": "+250736866075",
+      "email": "louise.mukamusoni@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 16966.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_09CA98",
+    "first_name": "Vincent",
+    "last_name": "Uwimana",
+    "gender": "Male",
+    "specialty": "Family Medicine",
+    "department_id": "DEPT_005",
+    "license_number": "RW_MD_849014",
+    "years_experience": 4,
+    "education": "MD, MSc",
+    "hire_date": "2021-06-12T10:08:17.220835",
+    "contact_info": {
+      "phone": "+250786721710",
+      "email": "vincent.uwimana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 16370.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_2E907E",
+    "first_name": "Sandrine",
+    "last_name": "Harerimana",
+    "gender": "Female",
+    "specialty": "Gastroenterology",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_425301",
+    "years_experience": 22,
+    "education": "MD, MSc",
+    "hire_date": "2020-05-25T16:48:12.948124",
+    "contact_info": {
+      "phone": "+250788870276",
+      "email": "sandrine.harerimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 19513.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_9F36BF",
+    "first_name": "Vincent",
+    "last_name": "Kalisa",
+    "gender": "Male",
+    "specialty": "Anesthesiology",
+    "department_id": "DEPT_019",
+    "license_number": "RW_MD_206053",
+    "years_experience": 18,
+    "education": "MD, MSc",
+    "hire_date": "2021-03-01T01:49:40.093989",
+    "contact_info": {
+      "phone": "+250799139119",
+      "email": "vincent.kalisa@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 16321.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_9E4353",
+    "first_name": "Yvonne",
+    "last_name": "Gasana",
+    "gender": "Female",
+    "specialty": "Obstetrics",
+    "department_id": "DEPT_011",
+    "license_number": "RW_MD_561999",
+    "years_experience": 16,
+    "education": "MD, PhD",
+    "hire_date": "2020-07-03T10:17:11.912827",
+    "contact_info": {
+      "phone": "+250751254050",
+      "email": "yvonne.gasana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 33461.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_D5D986",
+    "first_name": "Michel",
+    "last_name": "Habimana",
+    "gender": "Male",
+    "specialty": "Pulmonology",
+    "department_id": "DEPT_000",
+    "license_number": "RW_MD_515712",
+    "years_experience": 18,
+    "education": "MD, PhD",
+    "hire_date": "2021-05-22T13:54:54.657708",
+    "contact_info": {
+      "phone": "+250731645597",
+      "email": "michel.habimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 49808.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_E1F256",
+    "first_name": "Christine",
+    "last_name": "Mukamana",
+    "gender": "Female",
+    "specialty": "Radiology",
+    "department_id": "DEPT_012",
+    "license_number": "RW_MD_349183",
+    "years_experience": 11,
+    "education": "MD",
+    "hire_date": "2023-03-06T18:14:06.307595",
+    "contact_info": {
+      "phone": "+250706408822",
+      "email": "christine.mukamana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 29694.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_E54CE4",
+    "first_name": "Angelique",
+    "last_name": "Nyirahabimana",
+    "gender": "Female",
+    "specialty": "Infectious Disease",
+    "department_id": "DEPT_012",
+    "license_number": "RW_MD_505674",
+    "years_experience": 13,
+    "education": "MD, PhD",
+    "hire_date": "2021-10-28T04:24:19.480266",
+    "contact_info": {
+      "phone": "+250702179995",
+      "email": "angelique.nyirahabimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 42598.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_B6FAC0",
+    "first_name": "Delphine",
+    "last_name": "Nshimiyimana",
+    "gender": "Female",
+    "specialty": "Nephrology",
+    "department_id": "DEPT_017",
+    "license_number": "RW_MD_955015",
+    "years_experience": 19,
+    "education": "MD, PhD",
+    "hire_date": "2021-11-06T22:48:38.530549",
+    "contact_info": {
+      "phone": "+250733999198",
+      "email": "delphine.nshimiyimana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 41365.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_C47AB6",
+    "first_name": "Vincent",
+    "last_name": "Muhire",
+    "gender": "Male",
+    "specialty": "Neurology",
+    "department_id": "DEPT_003",
+    "license_number": "RW_MD_207581",
+    "years_experience": 4,
+    "education": "MD, PhD",
+    "hire_date": "2021-01-17T13:26:10.019507",
+    "contact_info": {
+      "phone": "+250788707076",
+      "email": "vincent.muhire@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 25727.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_95C708",
+    "first_name": "Jeannette",
+    "last_name": "Twagirumukiza",
+    "gender": "Female",
+    "specialty": "Psychiatry",
+    "department_id": "DEPT_019",
+    "license_number": "RW_MD_484123",
+    "years_experience": 13,
+    "education": "MD, PhD",
+    "hire_date": "2021-05-02T12:02:09.864529",
+    "contact_info": {
+      "phone": "+250776134287",
+      "email": "jeannette.twagirumukiza@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 36178.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_911EDC",
+    "first_name": "Marceline",
+    "last_name": "Ntawukuriryayo",
+    "gender": "Female",
+    "specialty": "Family Medicine",
+    "department_id": "DEPT_019",
+    "license_number": "RW_MD_177649",
+    "years_experience": 16,
+    "education": "MD",
+    "hire_date": "2024-09-06T07:57:02.346884",
+    "contact_info": {
+      "phone": "+250795746886",
+      "email": "marceline.ntawukuriryayo@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 49904.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_832143",
+    "first_name": "Louise",
+    "last_name": "Hakizimana",
+    "gender": "Female",
+    "specialty": "Endocrinology",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_517500",
+    "years_experience": 24,
+    "education": "MD, MSc",
+    "hire_date": "2023-03-29T07:30:09.802968",
+    "contact_info": {
+      "phone": "+250764245343",
+      "email": "louise.hakizimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 29378.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_93F5F0",
+    "first_name": "Angelique",
+    "last_name": "Bizimungu",
+    "gender": "Female",
+    "specialty": "Radiology",
+    "department_id": "DEPT_012",
+    "license_number": "RW_MD_987025",
+    "years_experience": 4,
+    "education": "MD, PhD",
+    "hire_date": "2023-01-17T06:33:25.892460",
+    "contact_info": {
+      "phone": "+250726347197",
+      "email": "angelique.bizimungu@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 48472.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_DD0596",
+    "first_name": "Yvonne",
+    "last_name": "Munyangabe",
+    "gender": "Female",
+    "specialty": "Pulmonology",
+    "department_id": "DEPT_012",
+    "license_number": "RW_MD_757629",
+    "years_experience": 19,
+    "education": "MD, PhD",
+    "hire_date": "2020-11-08T11:58:48.427080",
+    "contact_info": {
+      "phone": "+250786155337",
+      "email": "yvonne.munyangabe@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 31903.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_392195",
+    "first_name": "Ingabire",
+    "last_name": "Uwimana",
+    "gender": "Female",
+    "specialty": "Oncology",
+    "department_id": "DEPT_018",
+    "license_number": "RW_MD_745270",
+    "years_experience": 15,
+    "education": "MD",
+    "hire_date": "2023-08-24T09:15:10.056154",
+    "contact_info": {
+      "phone": "+250721434525",
+      "email": "ingabire.uwimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 47681.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_6CFAE5",
+    "first_name": "Agnes",
+    "last_name": "Nsengimana",
+    "gender": "Female",
+    "specialty": "Infectious Disease",
+    "department_id": "DEPT_015",
+    "license_number": "RW_MD_900961",
+    "years_experience": 14,
+    "education": "MD, PhD",
+    "hire_date": "2020-10-25T08:57:03.191842",
+    "contact_info": {
+      "phone": "+250706072331",
+      "email": "agnes.nsengimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 16791.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_35F568",
+    "first_name": "Alain",
+    "last_name": "Kalisa",
+    "gender": "Male",
+    "specialty": "Surgery",
+    "department_id": "DEPT_009",
+    "license_number": "RW_MD_644559",
+    "years_experience": 16,
+    "education": "MD",
+    "hire_date": "2021-11-23T21:15:19.006514",
+    "contact_info": {
+      "phone": "+250781370909",
+      "email": "alain.kalisa@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 19892.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_443167",
+    "first_name": "Jeannette",
+    "last_name": "Kanyange",
+    "gender": "Female",
+    "specialty": "Pulmonology",
+    "department_id": "DEPT_006",
+    "license_number": "RW_MD_856442",
+    "years_experience": 3,
+    "education": "MD, MSc",
+    "hire_date": "2024-12-11T20:52:16.745873",
+    "contact_info": {
+      "phone": "+250764484744",
+      "email": "jeannette.kanyange@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 33348.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_5F0F3A",
+    "first_name": "Esperance",
+    "last_name": "Mukashema",
+    "gender": "Female",
+    "specialty": "Neurology",
+    "department_id": "DEPT_003",
+    "license_number": "RW_MD_659024",
+    "years_experience": 12,
+    "education": "MD, MSc",
+    "hire_date": "2023-03-14T15:20:58.113045",
+    "contact_info": {
+      "phone": "+250747551594",
+      "email": "esperance.mukashema@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 42020.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_96D284",
+    "first_name": "Valentine",
+    "last_name": "Habimana",
+    "gender": "Female",
+    "specialty": "Emergency Medicine",
+    "department_id": "DEPT_001",
+    "license_number": "RW_MD_404561",
+    "years_experience": 3,
+    "education": "MD, PhD",
+    "hire_date": "2022-10-13T23:45:56.056248",
+    "contact_info": {
+      "phone": "+250795850421",
+      "email": "valentine.habimana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 27123.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_3E801B",
+    "first_name": "Euphrasie",
+    "last_name": "Nyampinga",
+    "gender": "Female",
+    "specialty": "Dermatology",
+    "department_id": "DEPT_008",
+    "license_number": "RW_MD_784607",
+    "years_experience": 30,
+    "education": "MD, PhD",
+    "hire_date": "2023-06-04T02:32:05.767369",
+    "contact_info": {
+      "phone": "+250764082055",
+      "email": "euphrasie.nyampinga@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 21981.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_30C6DE",
+    "first_name": "Jacqueline",
+    "last_name": "Nsabimana",
+    "gender": "Female",
+    "specialty": "Neurology",
+    "department_id": "DEPT_019",
+    "license_number": "RW_MD_732063",
+    "years_experience": 5,
+    "education": "MD, PhD",
+    "hire_date": "2024-03-19T01:08:33.181434",
+    "contact_info": {
+      "phone": "+250738193218",
+      "email": "jacqueline.nsabimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 49618.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_8DA95C",
+    "first_name": "Yvonne",
+    "last_name": "Niyigena",
+    "gender": "Female",
+    "specialty": "Family Medicine",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_439320",
+    "years_experience": 9,
+    "education": "MD",
+    "hire_date": "2023-11-17T23:25:12.444969",
+    "contact_info": {
+      "phone": "+250735002007",
+      "email": "yvonne.niyigena@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 23243.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_803A34",
+    "first_name": "Kevine",
+    "last_name": "Munyangabe",
+    "gender": "Female",
+    "specialty": "Nephrology",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_536045",
+    "years_experience": 24,
+    "education": "MD, MSc",
+    "hire_date": "2021-02-22T05:48:09.740718",
+    "contact_info": {
+      "phone": "+250763193474",
+      "email": "kevine.munyangabe@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 43070.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_ED0B26",
+    "first_name": "Janvier",
+    "last_name": "Mukashema",
+    "gender": "Male",
+    "specialty": "Pulmonology",
+    "department_id": "DEPT_019",
+    "license_number": "RW_MD_238353",
+    "years_experience": 18,
+    "education": "MD, PhD",
+    "hire_date": "2020-02-28T14:45:39.919862",
+    "contact_info": {
+      "phone": "+250761310453",
+      "email": "janvier.mukashema@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 17021.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_DC3F07",
+    "first_name": "Ingabire",
+    "last_name": "Mukamana",
+    "gender": "Female",
+    "specialty": "Anesthesiology",
+    "department_id": "DEPT_013",
+    "license_number": "RW_MD_495833",
+    "years_experience": 14,
+    "education": "MD",
+    "hire_date": "2021-07-30T00:24:51.761308",
+    "contact_info": {
+      "phone": "+250791634516",
+      "email": "ingabire.mukamana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 45609.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_75BC3D",
+    "first_name": "Damascene",
+    "last_name": "Muhire",
+    "gender": "Male",
+    "specialty": "Pediatrics",
+    "department_id": "DEPT_013",
+    "license_number": "RW_MD_744793",
+    "years_experience": 26,
+    "education": "MD",
+    "hire_date": "2021-05-03T21:28:34.135533",
+    "contact_info": {
+      "phone": "+250732301683",
+      "email": "damascene.muhire@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 17355.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_679A8B",
+    "first_name": "Paul",
+    "last_name": "Uwumuremyi",
+    "gender": "Male",
+    "specialty": "Emergency Medicine",
+    "department_id": "DEPT_002",
+    "license_number": "RW_MD_683761",
+    "years_experience": 20,
+    "education": "MD, MSc",
+    "hire_date": "2021-01-20T06:06:43.694378",
+    "contact_info": {
+      "phone": "+250723505978",
+      "email": "paul.uwumuremyi@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 38756.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_F963DE",
+    "first_name": "Chantal",
+    "last_name": "Muhire",
+    "gender": "Female",
+    "specialty": "Anesthesiology",
+    "department_id": "DEPT_017",
+    "license_number": "RW_MD_988283",
+    "years_experience": 13,
+    "education": "MD",
+    "hire_date": "2024-09-17T18:04:31.155670",
+    "contact_info": {
+      "phone": "+250771891784",
+      "email": "chantal.muhire@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 44029.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_2CE79F",
+    "first_name": "Claude",
+    "last_name": "Gasana",
+    "gender": "Male",
+    "specialty": "Pulmonology",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_678897",
+    "years_experience": 12,
+    "education": "MD, PhD",
+    "hire_date": "2024-05-19T05:56:05.505138",
+    "contact_info": {
+      "phone": "+250751091554",
+      "email": "claude.gasana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 33678.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_D83290",
+    "first_name": "Ingabire",
+    "last_name": "Ntaganda",
+    "gender": "Female",
+    "specialty": "Psychiatry",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_623555",
+    "years_experience": 19,
+    "education": "MD, MSc",
+    "hire_date": "2021-07-28T14:26:36.413205",
+    "contact_info": {
+      "phone": "+250791918556",
+      "email": "ingabire.ntaganda@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 24006.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_2A86B4",
+    "first_name": "Winnie",
+    "last_name": "Uwimana",
+    "gender": "Female",
+    "specialty": "Orthopedics",
+    "department_id": "DEPT_017",
+    "license_number": "RW_MD_491329",
+    "years_experience": 3,
+    "education": "MD, MSc",
+    "hire_date": "2023-04-11T19:56:38.644378",
+    "contact_info": {
+      "phone": "+250785594482",
+      "email": "winnie.uwimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 47687.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_66F2DE",
+    "first_name": "Winnie",
+    "last_name": "Mukamana",
+    "gender": "Female",
+    "specialty": "Cardiology",
+    "department_id": "DEPT_011",
+    "license_number": "RW_MD_581294",
+    "years_experience": 20,
+    "education": "MD",
+    "hire_date": "2021-12-23T10:10:20.755497",
+    "contact_info": {
+      "phone": "+250793581474",
+      "email": "winnie.mukamana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 25499.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_D228B2",
+    "first_name": "Damascene",
+    "last_name": "Niyonzima",
+    "gender": "Male",
+    "specialty": "Oncology",
+    "department_id": "DEPT_014",
+    "license_number": "RW_MD_669408",
+    "years_experience": 20,
+    "education": "MD, MSc",
+    "hire_date": "2024-07-27T23:08:00.862042",
+    "contact_info": {
+      "phone": "+250704416002",
+      "email": "damascene.niyonzima@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 47507.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_DEF05A",
+    "first_name": "Grace",
+    "last_name": "Nyiramana",
+    "gender": "Female",
+    "specialty": "Nephrology",
+    "department_id": "DEPT_000",
+    "license_number": "RW_MD_457137",
+    "years_experience": 21,
+    "education": "MD, MSc",
+    "hire_date": "2022-04-17T20:43:24.916045",
+    "contact_info": {
+      "phone": "+250779941241",
+      "email": "grace.nyiramana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 48912.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_C519B3",
+    "first_name": "Grace",
+    "last_name": "Uwizeye",
+    "gender": "Female",
+    "specialty": "Family Medicine",
+    "department_id": "DEPT_011",
+    "license_number": "RW_MD_898329",
+    "years_experience": 10,
+    "education": "MD",
+    "hire_date": "2021-04-28T16:06:30.299798",
+    "contact_info": {
+      "phone": "+250717784789",
+      "email": "grace.uwizeye@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 21559.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_05131D",
+    "first_name": "Xaverine",
+    "last_name": "Munyakazi",
+    "gender": "Female",
+    "specialty": "Pediatrics",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_389366",
+    "years_experience": 15,
+    "education": "MD, PhD",
+    "hire_date": "2021-03-26T08:12:14.029852",
+    "contact_info": {
+      "phone": "+250764992426",
+      "email": "xaverine.munyakazi@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 27639.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_73CEC1",
+    "first_name": "Gratien",
+    "last_name": "Mutabazi",
+    "gender": "Male",
+    "specialty": "Pulmonology",
+    "department_id": "DEPT_017",
+    "license_number": "RW_MD_405605",
+    "years_experience": 25,
+    "education": "MD, MSc",
+    "hire_date": "2022-10-22T01:23:49.601637",
+    "contact_info": {
+      "phone": "+250784946730",
+      "email": "gratien.mutabazi@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 48872.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_4C5970",
+    "first_name": "Gilbert",
+    "last_name": "Gasana",
+    "gender": "Male",
+    "specialty": "Internal Medicine",
+    "department_id": "DEPT_002",
+    "license_number": "RW_MD_364955",
+    "years_experience": 23,
+    "education": "MD",
+    "hire_date": "2021-04-24T18:23:17.706873",
+    "contact_info": {
+      "phone": "+250795997403",
+      "email": "gilbert.gasana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 42618.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_015A0D",
+    "first_name": "Paul",
+    "last_name": "Nyampinga",
+    "gender": "Male",
+    "specialty": "Nephrology",
+    "department_id": "DEPT_015",
+    "license_number": "RW_MD_934908",
+    "years_experience": 15,
+    "education": "MD",
+    "hire_date": "2022-12-03T10:53:47.168003",
+    "contact_info": {
+      "phone": "+250701415698",
+      "email": "paul.nyampinga@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 24056.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_EC5872",
+    "first_name": "Paul",
+    "last_name": "Ntawukuriryayo",
+    "gender": "Male",
+    "specialty": "Anesthesiology",
+    "department_id": "DEPT_003",
+    "license_number": "RW_MD_414849",
+    "years_experience": 3,
+    "education": "MD, MSc",
+    "hire_date": "2024-06-27T10:11:24.183582",
+    "contact_info": {
+      "phone": "+250715446483",
+      "email": "paul.ntawukuriryayo@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 44721.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_277B04",
+    "first_name": "Fidele",
+    "last_name": "Nsengimana",
+    "gender": "Male",
+    "specialty": "Emergency Medicine",
+    "department_id": "DEPT_017",
+    "license_number": "RW_MD_206694",
+    "years_experience": 27,
+    "education": "MD, MSc",
+    "hire_date": "2021-12-30T07:19:39.854182",
+    "contact_info": {
+      "phone": "+250725093324",
+      "email": "fidele.nsengimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 26409.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_481CF3",
+    "first_name": "Solange",
+    "last_name": "Ntaganda",
+    "gender": "Female",
+    "specialty": "Infectious Disease",
+    "department_id": "DEPT_014",
+    "license_number": "RW_MD_725397",
+    "years_experience": 6,
+    "education": "MD, MSc",
+    "hire_date": "2021-02-04T11:30:46.617512",
+    "contact_info": {
+      "phone": "+250751500679",
+      "email": "solange.ntaganda@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 21501.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_6F635B",
+    "first_name": "Faustin",
+    "last_name": "Nsengimana",
+    "gender": "Male",
+    "specialty": "Infectious Disease",
+    "department_id": "DEPT_000",
+    "license_number": "RW_MD_388204",
+    "years_experience": 9,
+    "education": "MD, MSc",
+    "hire_date": "2024-12-26T12:05:17.041350",
+    "contact_info": {
+      "phone": "+250738744673",
+      "email": "faustin.nsengimana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 42326.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_E42FA3",
+    "first_name": "Xaverine",
+    "last_name": "Nyirahabimana",
+    "gender": "Female",
+    "specialty": "Nephrology",
+    "department_id": "DEPT_005",
+    "license_number": "RW_MD_320073",
+    "years_experience": 27,
+    "education": "MD, MSc",
+    "hire_date": "2022-07-19T09:28:49.058679",
+    "contact_info": {
+      "phone": "+250778909809",
+      "email": "xaverine.nyirahabimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 27272.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_C00418",
+    "first_name": "Jeannette",
+    "last_name": "Bizimungu",
+    "gender": "Female",
+    "specialty": "Dermatology",
+    "department_id": "DEPT_018",
+    "license_number": "RW_MD_239136",
+    "years_experience": 9,
+    "education": "MD",
+    "hire_date": "2020-06-15T00:00:50.684776",
+    "contact_info": {
+      "phone": "+250795481800",
+      "email": "jeannette.bizimungu@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 43997.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_AC91D0",
+    "first_name": "Winnie",
+    "last_name": "Mukamusoni",
+    "gender": "Female",
+    "specialty": "Nephrology",
+    "department_id": "DEPT_003",
+    "license_number": "RW_MD_934328",
+    "years_experience": 19,
+    "education": "MD, PhD",
+    "hire_date": "2020-03-27T00:49:40.931809",
+    "contact_info": {
+      "phone": "+250729236638",
+      "email": "winnie.mukamusoni@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 43870.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_1DEEFE",
+    "first_name": "Gisele",
+    "last_name": "Kayitesi",
+    "gender": "Female",
+    "specialty": "Surgery",
+    "department_id": "DEPT_007",
+    "license_number": "RW_MD_387330",
+    "years_experience": 4,
+    "education": "MD, MSc",
+    "hire_date": "2020-07-19T05:15:48.558554",
+    "contact_info": {
+      "phone": "+250748376818",
+      "email": "gisele.kayitesi@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 17885.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_63BDAF",
+    "first_name": "Emmanuel",
+    "last_name": "Kanyange",
+    "gender": "Male",
+    "specialty": "Surgery",
+    "department_id": "DEPT_004",
+    "license_number": "RW_MD_428572",
+    "years_experience": 13,
+    "education": "MD, PhD",
+    "hire_date": "2023-02-19T17:11:43.193746",
+    "contact_info": {
+      "phone": "+250718405182",
+      "email": "emmanuel.kanyange@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 42071.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_BDF922",
+    "first_name": "Damascene",
+    "last_name": "Mukamusoni",
+    "gender": "Male",
+    "specialty": "Oncology",
+    "department_id": "DEPT_001",
+    "license_number": "RW_MD_360221",
+    "years_experience": 19,
+    "education": "MD, MSc",
+    "hire_date": "2023-12-17T08:05:09.829833",
+    "contact_info": {
+      "phone": "+250780531692",
+      "email": "damascene.mukamusoni@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 36266.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_B07F0B",
+    "first_name": "Pascal",
+    "last_name": "Munyangabe",
+    "gender": "Male",
+    "specialty": "Dermatology",
+    "department_id": "DEPT_004",
+    "license_number": "RW_MD_899776",
+    "years_experience": 17,
+    "education": "MD",
+    "hire_date": "2022-02-09T20:44:18.186106",
+    "contact_info": {
+      "phone": "+250702240013",
+      "email": "pascal.munyangabe@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 17364.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_6B91BA",
+    "first_name": "Beatrice",
+    "last_name": "Niyonzima",
+    "gender": "Female",
+    "specialty": "Neurology",
+    "department_id": "DEPT_015",
+    "license_number": "RW_MD_169326",
+    "years_experience": 11,
+    "education": "MD, MSc",
+    "hire_date": "2020-04-26T00:02:17.499852",
+    "contact_info": {
+      "phone": "+250758718382",
+      "email": "beatrice.niyonzima@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 48370.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_45DB4E",
+    "first_name": "Emmanuel",
+    "last_name": "Mukashema",
+    "gender": "Male",
+    "specialty": "Oncology",
+    "department_id": "DEPT_002",
+    "license_number": "RW_MD_908903",
+    "years_experience": 30,
+    "education": "MD",
+    "hire_date": "2021-11-27T20:05:01.002705",
+    "contact_info": {
+      "phone": "+250744964418",
+      "email": "emmanuel.mukashema@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 24519.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_7658BD",
+    "first_name": "Claude",
+    "last_name": "Sibomana",
+    "gender": "Male",
+    "specialty": "Oncology",
+    "department_id": "DEPT_002",
+    "license_number": "RW_MD_679720",
+    "years_experience": 27,
+    "education": "MD, MSc",
+    "hire_date": "2024-12-23T22:01:24.123511",
+    "contact_info": {
+      "phone": "+250799410484",
+      "email": "claude.sibomana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 29678.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_FF9046",
+    "first_name": "Delphine",
+    "last_name": "Munyakazi",
+    "gender": "Female",
+    "specialty": "Radiology",
+    "department_id": "DEPT_009",
+    "license_number": "RW_MD_586462",
+    "years_experience": 13,
+    "education": "MD, MSc",
+    "hire_date": "2022-08-24T03:54:25.414649",
+    "contact_info": {
+      "phone": "+250766217748",
+      "email": "delphine.munyakazi@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 40636.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_0D8F5A",
+    "first_name": "David",
+    "last_name": "Uwimana",
+    "gender": "Male",
+    "specialty": "Pathology",
+    "department_id": "DEPT_018",
+    "license_number": "RW_MD_834891",
+    "years_experience": 30,
+    "education": "MD, PhD",
+    "hire_date": "2024-11-08T04:32:19.753941",
+    "contact_info": {
+      "phone": "+250761533194",
+      "email": "david.uwimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 17972.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_7AFFD1",
+    "first_name": "Innocent",
+    "last_name": "Bizimungu",
+    "gender": "Male",
+    "specialty": "Anesthesiology",
+    "department_id": "DEPT_014",
+    "license_number": "RW_MD_226601",
+    "years_experience": 19,
+    "education": "MD, PhD",
+    "hire_date": "2024-04-20T18:48:34.814609",
+    "contact_info": {
+      "phone": "+250727868462",
+      "email": "innocent.bizimungu@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 25791.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_FD0116",
+    "first_name": "Solange",
+    "last_name": "Murekatete",
+    "gender": "Female",
+    "specialty": "Orthopedics",
+    "department_id": "DEPT_004",
+    "license_number": "RW_MD_942946",
+    "years_experience": 27,
+    "education": "MD",
+    "hire_date": "2020-01-21T23:08:39.500240",
+    "contact_info": {
+      "phone": "+250716301180",
+      "email": "solange.murekatete@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 17158.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_C3150E",
+    "first_name": "David",
+    "last_name": "Habimana",
+    "gender": "Male",
+    "specialty": "Anesthesiology",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_620226",
+    "years_experience": 2,
+    "education": "MD, PhD",
+    "hire_date": "2023-08-09T00:54:46.841908",
+    "contact_info": {
+      "phone": "+250791699285",
+      "email": "david.habimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 21048.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_8B0F0E",
+    "first_name": "Sylvestre",
+    "last_name": "Mukabatsinda",
+    "gender": "Male",
+    "specialty": "Internal Medicine",
+    "department_id": "DEPT_009",
+    "license_number": "RW_MD_602985",
+    "years_experience": 19,
+    "education": "MD, PhD",
+    "hire_date": "2023-05-29T19:16:30.763994",
+    "contact_info": {
+      "phone": "+250746175477",
+      "email": "sylvestre.mukabatsinda@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 32584.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_728D64",
+    "first_name": "Gisele",
+    "last_name": "Mukabatsinda",
+    "gender": "Female",
+    "specialty": "Cardiology",
+    "department_id": "DEPT_018",
+    "license_number": "RW_MD_507290",
+    "years_experience": 13,
+    "education": "MD",
+    "hire_date": "2022-09-07T12:11:15.935406",
+    "contact_info": {
+      "phone": "+250723635791",
+      "email": "gisele.mukabatsinda@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 35738.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_44D744",
+    "first_name": "Grace",
+    "last_name": "Muhire",
+    "gender": "Female",
+    "specialty": "Nephrology",
+    "department_id": "DEPT_014",
+    "license_number": "RW_MD_162448",
+    "years_experience": 2,
+    "education": "MD",
+    "hire_date": "2021-05-02T05:20:49.648129",
+    "contact_info": {
+      "phone": "+250778733350",
+      "email": "grace.muhire@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 47103.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_9E07F1",
+    "first_name": "Pascal",
+    "last_name": "Harerimana",
+    "gender": "Male",
+    "specialty": "Psychiatry",
+    "department_id": "DEPT_006",
+    "license_number": "RW_MD_496764",
+    "years_experience": 11,
+    "education": "MD, MSc",
+    "hire_date": "2023-03-16T09:30:35.499461",
+    "contact_info": {
+      "phone": "+250792408696",
+      "email": "pascal.harerimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 19457.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_4AD7C7",
+    "first_name": "Francois",
+    "last_name": "Sibomana",
+    "gender": "Male",
+    "specialty": "Anesthesiology",
+    "department_id": "DEPT_011",
+    "license_number": "RW_MD_568325",
+    "years_experience": 2,
+    "education": "MD, PhD",
+    "hire_date": "2020-07-22T16:39:44.840396",
+    "contact_info": {
+      "phone": "+250728143348",
+      "email": "francois.sibomana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 39261.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_227113",
+    "first_name": "Euphrasie",
+    "last_name": "Nshimiyimana",
+    "gender": "Female",
+    "specialty": "Cardiology",
+    "department_id": "DEPT_017",
+    "license_number": "RW_MD_278368",
+    "years_experience": 30,
+    "education": "MD, PhD",
+    "hire_date": "2022-03-04T21:09:08.443162",
+    "contact_info": {
+      "phone": "+250721596235",
+      "email": "euphrasie.nshimiyimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 17625.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_80F912",
+    "first_name": "Gilbert",
+    "last_name": "Nyampinga",
+    "gender": "Male",
+    "specialty": "Cardiology",
+    "department_id": "DEPT_000",
+    "license_number": "RW_MD_408857",
+    "years_experience": 28,
+    "education": "MD, MSc",
+    "hire_date": "2022-04-08T11:59:15.742216",
+    "contact_info": {
+      "phone": "+250783898287",
+      "email": "gilbert.nyampinga@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 31811.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_9FD81F",
+    "first_name": "Jean",
+    "last_name": "Nyiramana",
+    "gender": "Male",
+    "specialty": "Orthopedics",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_799891",
+    "years_experience": 5,
+    "education": "MD",
+    "hire_date": "2024-10-07T16:01:45.147662",
+    "contact_info": {
+      "phone": "+250789676390",
+      "email": "jean.nyiramana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 43286.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_F4F4B8",
+    "first_name": "Christine",
+    "last_name": "Kalisa",
+    "gender": "Female",
+    "specialty": "Neurology",
+    "department_id": "DEPT_009",
+    "license_number": "RW_MD_322182",
+    "years_experience": 27,
+    "education": "MD",
+    "hire_date": "2024-05-18T07:22:45.332882",
+    "contact_info": {
+      "phone": "+250716936398",
+      "email": "christine.kalisa@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 29818.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_13DA0B",
+    "first_name": "Agnes",
+    "last_name": "Mukamusoni",
+    "gender": "Female",
+    "specialty": "Pulmonology",
+    "department_id": "DEPT_000",
+    "license_number": "RW_MD_690016",
+    "years_experience": 26,
+    "education": "MD",
+    "hire_date": "2021-04-25T22:45:42.336417",
+    "contact_info": {
+      "phone": "+250738398732",
+      "email": "agnes.mukamusoni@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 45805.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_61AB8F",
+    "first_name": "Euphrasie",
+    "last_name": "Gasana",
+    "gender": "Female",
+    "specialty": "Infectious Disease",
+    "department_id": "DEPT_002",
+    "license_number": "RW_MD_339030",
+    "years_experience": 6,
+    "education": "MD, PhD",
+    "hire_date": "2022-07-03T01:41:08.945939",
+    "contact_info": {
+      "phone": "+250799820897",
+      "email": "euphrasie.gasana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 42091.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_EFFF1F",
+    "first_name": "Gisele",
+    "last_name": "Munyakazi",
+    "gender": "Female",
+    "specialty": "Pulmonology",
+    "department_id": "DEPT_002",
+    "license_number": "RW_MD_134677",
+    "years_experience": 16,
+    "education": "MD",
+    "hire_date": "2020-11-22T05:14:24.044469",
+    "contact_info": {
+      "phone": "+250748368724",
+      "email": "gisele.munyakazi@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 21969.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_01305B",
+    "first_name": "Therese",
+    "last_name": "Niyigena",
+    "gender": "Female",
+    "specialty": "Anesthesiology",
+    "department_id": "DEPT_014",
+    "license_number": "RW_MD_336047",
+    "years_experience": 23,
+    "education": "MD",
+    "hire_date": "2024-07-24T11:00:08.753211",
+    "contact_info": {
+      "phone": "+250736115786",
+      "email": "therese.niyigena@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 29333.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_92CE8A",
+    "first_name": "Pascal",
+    "last_name": "Uwimana",
+    "gender": "Male",
+    "specialty": "Infectious Disease",
+    "department_id": "DEPT_012",
+    "license_number": "RW_MD_688730",
+    "years_experience": 22,
+    "education": "MD, MSc",
+    "hire_date": "2024-05-08T13:36:20.896295",
+    "contact_info": {
+      "phone": "+250781745321",
+      "email": "pascal.uwimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 25447.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_953643",
+    "first_name": "Antoine",
+    "last_name": "Hakizimana",
+    "gender": "Male",
+    "specialty": "Radiology",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_524252",
+    "years_experience": 14,
+    "education": "MD, MSc",
+    "hire_date": "2021-06-28T23:02:40.345602",
+    "contact_info": {
+      "phone": "+250704740436",
+      "email": "antoine.hakizimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 39782.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_801329",
+    "first_name": "Gilbert",
+    "last_name": "Rutayisire",
+    "gender": "Male",
+    "specialty": "Endocrinology",
+    "department_id": "DEPT_017",
+    "license_number": "RW_MD_540897",
+    "years_experience": 27,
+    "education": "MD, PhD",
+    "hire_date": "2023-03-12T17:19:21.586828",
+    "contact_info": {
+      "phone": "+250749886371",
+      "email": "gilbert.rutayisire@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 35495.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_50D9B3",
+    "first_name": "Solange",
+    "last_name": "Nyampinga",
+    "gender": "Female",
+    "specialty": "Neurology",
+    "department_id": "DEPT_001",
+    "license_number": "RW_MD_611265",
+    "years_experience": 12,
+    "education": "MD, MSc",
+    "hire_date": "2023-01-16T23:30:37.965839",
+    "contact_info": {
+      "phone": "+250723732951",
+      "email": "solange.nyampinga@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 37207.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_564F90",
+    "first_name": "Paul",
+    "last_name": "Uwizeye",
+    "gender": "Male",
+    "specialty": "Dermatology",
+    "department_id": "DEPT_015",
+    "license_number": "RW_MD_869238",
+    "years_experience": 9,
+    "education": "MD",
+    "hire_date": "2020-10-06T02:01:41.177709",
+    "contact_info": {
+      "phone": "+250793083315",
+      "email": "paul.uwizeye@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 25923.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_32BE91",
+    "first_name": "Fabrice",
+    "last_name": "Niyigena",
+    "gender": "Male",
+    "specialty": "Nephrology",
+    "department_id": "DEPT_002",
+    "license_number": "RW_MD_869735",
+    "years_experience": 2,
+    "education": "MD, MSc",
+    "hire_date": "2023-10-24T08:16:23.888976",
+    "contact_info": {
+      "phone": "+250767730769",
+      "email": "fabrice.niyigena@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 19311.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_7FC7BD",
+    "first_name": "Fabrice",
+    "last_name": "Ntaganda",
+    "gender": "Male",
+    "specialty": "Endocrinology",
+    "department_id": "DEPT_011",
+    "license_number": "RW_MD_971002",
+    "years_experience": 30,
+    "education": "MD",
+    "hire_date": "2022-09-11T21:44:47.817465",
+    "contact_info": {
+      "phone": "+250768663747",
+      "email": "fabrice.ntaganda@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 36619.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_00F834",
+    "first_name": "Solange",
+    "last_name": "Nshimiyimana",
+    "gender": "Female",
+    "specialty": "Infectious Disease",
+    "department_id": "DEPT_015",
+    "license_number": "RW_MD_178693",
+    "years_experience": 25,
+    "education": "MD, MSc",
+    "hire_date": "2023-11-22T18:31:36.478220",
+    "contact_info": {
+      "phone": "+250713594977",
+      "email": "solange.nshimiyimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 37552.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_A8B434",
+    "first_name": "Harriet",
+    "last_name": "Ntaganda",
+    "gender": "Female",
+    "specialty": "Family Medicine",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_291752",
+    "years_experience": 5,
+    "education": "MD, PhD",
+    "hire_date": "2022-08-26T10:13:09.589013",
+    "contact_info": {
+      "phone": "+250753720675",
+      "email": "harriet.ntaganda@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 24514.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_B2BADA",
+    "first_name": "Valentine",
+    "last_name": "Munyakazi",
+    "gender": "Female",
+    "specialty": "Orthopedics",
+    "department_id": "DEPT_017",
+    "license_number": "RW_MD_562094",
+    "years_experience": 3,
+    "education": "MD",
+    "hire_date": "2020-01-02T01:03:45.993280",
+    "contact_info": {
+      "phone": "+250735113084",
+      "email": "valentine.munyakazi@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 25998.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_D6C0A7",
+    "first_name": "Fidele",
+    "last_name": "Byukusenge",
+    "gender": "Male",
+    "specialty": "Gastroenterology",
+    "department_id": "DEPT_004",
+    "license_number": "RW_MD_446968",
+    "years_experience": 10,
+    "education": "MD",
+    "hire_date": "2021-08-14T21:48:54.151822",
+    "contact_info": {
+      "phone": "+250768038903",
+      "email": "fidele.byukusenge@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 34267.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_C43A32",
+    "first_name": "Odette",
+    "last_name": "Mukashema",
+    "gender": "Female",
+    "specialty": "Oncology",
+    "department_id": "DEPT_009",
+    "license_number": "RW_MD_480992",
+    "years_experience": 28,
+    "education": "MD",
+    "hire_date": "2020-02-05T13:32:55.529940",
+    "contact_info": {
+      "phone": "+250729919562",
+      "email": "odette.mukashema@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 26619.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_6C3068",
+    "first_name": "Marceline",
+    "last_name": "Twagirumukiza",
+    "gender": "Female",
+    "specialty": "Pediatrics",
+    "department_id": "DEPT_009",
+    "license_number": "RW_MD_851606",
+    "years_experience": 12,
+    "education": "MD",
+    "hire_date": "2024-08-23T12:49:03.933050",
+    "contact_info": {
+      "phone": "+250755629268",
+      "email": "marceline.twagirumukiza@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 47432.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_1464E2",
+    "first_name": "Janvier",
+    "last_name": "Twagirumukiza",
+    "gender": "Male",
+    "specialty": "Family Medicine",
+    "department_id": "DEPT_014",
+    "license_number": "RW_MD_539001",
+    "years_experience": 21,
+    "education": "MD, MSc",
+    "hire_date": "2024-05-23T13:06:27.265404",
+    "contact_info": {
+      "phone": "+250733318046",
+      "email": "janvier.twagirumukiza@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 28925.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_D4A1EA",
+    "first_name": "Harriet",
+    "last_name": "Twagirumukiza",
+    "gender": "Female",
+    "specialty": "Obstetrics",
+    "department_id": "DEPT_018",
+    "license_number": "RW_MD_438041",
+    "years_experience": 24,
+    "education": "MD",
+    "hire_date": "2024-02-27T14:54:36.571408",
+    "contact_info": {
+      "phone": "+250747276557",
+      "email": "harriet.twagirumukiza@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 31813.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_39E74C",
+    "first_name": "Zainab",
+    "last_name": "Nsabimana",
+    "gender": "Female",
+    "specialty": "Pathology",
+    "department_id": "DEPT_007",
+    "license_number": "RW_MD_878476",
+    "years_experience": 22,
+    "education": "MD, MSc",
+    "hire_date": "2021-07-15T12:29:56.513927",
+    "contact_info": {
+      "phone": "+250752195484",
+      "email": "zainab.nsabimana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 32882.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_861BB2",
+    "first_name": "Chantal",
+    "last_name": "Gasana",
+    "gender": "Female",
+    "specialty": "Anesthesiology",
+    "department_id": "DEPT_012",
+    "license_number": "RW_MD_286044",
+    "years_experience": 23,
+    "education": "MD",
+    "hire_date": "2020-04-15T18:30:44.987189",
+    "contact_info": {
+      "phone": "+250725095571",
+      "email": "chantal.gasana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 40728.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_7757AC",
+    "first_name": "Fabrice",
+    "last_name": "Niyonzima",
+    "gender": "Male",
+    "specialty": "Pathology",
+    "department_id": "DEPT_001",
+    "license_number": "RW_MD_645895",
+    "years_experience": 4,
+    "education": "MD, MSc",
+    "hire_date": "2024-05-22T05:53:33.631864",
+    "contact_info": {
+      "phone": "+250721390345",
+      "email": "fabrice.niyonzima@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 34008.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_AD367A",
+    "first_name": "Vestine",
+    "last_name": "Muhire",
+    "gender": "Female",
+    "specialty": "Emergency Medicine",
+    "department_id": "DEPT_003",
+    "license_number": "RW_MD_504620",
+    "years_experience": 10,
+    "education": "MD, MSc",
+    "hire_date": "2024-09-25T03:06:44.966661",
+    "contact_info": {
+      "phone": "+250797170361",
+      "email": "vestine.muhire@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 15865.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_C1CFD4",
+    "first_name": "Xaverine",
+    "last_name": "Niyigena",
+    "gender": "Female",
+    "specialty": "Family Medicine",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_777968",
+    "years_experience": 28,
+    "education": "MD",
+    "hire_date": "2020-06-05T09:40:36.780322",
+    "contact_info": {
+      "phone": "+250792079205",
+      "email": "xaverine.niyigena@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 15831.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_7013F1",
+    "first_name": "Immaculee",
+    "last_name": "Murekatete",
+    "gender": "Female",
+    "specialty": "Oncology",
+    "department_id": "DEPT_000",
+    "license_number": "RW_MD_403915",
+    "years_experience": 27,
+    "education": "MD, MSc",
+    "hire_date": "2022-06-06T10:02:45.831794",
+    "contact_info": {
+      "phone": "+250740446607",
+      "email": "immaculee.murekatete@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 18028.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_3F4300",
+    "first_name": "Nadine",
+    "last_name": "Kanyange",
+    "gender": "Female",
+    "specialty": "Cardiology",
+    "department_id": "DEPT_018",
+    "license_number": "RW_MD_674122",
+    "years_experience": 4,
+    "education": "MD, PhD",
+    "hire_date": "2020-05-06T09:10:09.873690",
+    "contact_info": {
+      "phone": "+250728192821",
+      "email": "nadine.kanyange@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 40950.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_9DD8C2",
+    "first_name": "Beatrice",
+    "last_name": "Munyakazi",
+    "gender": "Female",
+    "specialty": "Gastroenterology",
+    "department_id": "DEPT_004",
+    "license_number": "RW_MD_204904",
+    "years_experience": 11,
+    "education": "MD, MSc",
+    "hire_date": "2023-10-20T20:37:45.444839",
+    "contact_info": {
+      "phone": "+250709369589",
+      "email": "beatrice.munyakazi@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 26123.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_9B2747",
+    "first_name": "Kevine",
+    "last_name": "Munyangabe",
+    "gender": "Female",
+    "specialty": "Nephrology",
+    "department_id": "DEPT_000",
+    "license_number": "RW_MD_982683",
+    "years_experience": 10,
+    "education": "MD",
+    "hire_date": "2023-10-30T09:55:40.907818",
+    "contact_info": {
+      "phone": "+250772292089",
+      "email": "kevine.munyangabe@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 24213.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_EBADED",
+    "first_name": "Gratien",
+    "last_name": "Hakizimana",
+    "gender": "Male",
+    "specialty": "Cardiology",
+    "department_id": "DEPT_007",
+    "license_number": "RW_MD_626560",
+    "years_experience": 2,
+    "education": "MD, MSc",
+    "hire_date": "2020-08-22T10:37:39.144855",
+    "contact_info": {
+      "phone": "+250732062038",
+      "email": "gratien.hakizimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 38946.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_655EF0",
+    "first_name": "Paul",
+    "last_name": "Nsengimana",
+    "gender": "Male",
+    "specialty": "Orthopedics",
+    "department_id": "DEPT_003",
+    "license_number": "RW_MD_837920",
+    "years_experience": 18,
+    "education": "MD, MSc",
+    "hire_date": "2022-05-17T20:46:29.776076",
+    "contact_info": {
+      "phone": "+250736707919",
+      "email": "paul.nsengimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 24216.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_CFEAF9",
+    "first_name": "Fabrice",
+    "last_name": "Gasana",
+    "gender": "Male",
+    "specialty": "Psychiatry",
+    "department_id": "DEPT_003",
+    "license_number": "RW_MD_793223",
+    "years_experience": 9,
+    "education": "MD, PhD",
+    "hire_date": "2022-09-30T22:35:33.652761",
+    "contact_info": {
+      "phone": "+250744322017",
+      "email": "fabrice.gasana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 18967.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_4E97A9",
+    "first_name": "Valentine",
+    "last_name": "Nyiramana",
+    "gender": "Female",
+    "specialty": "Nephrology",
+    "department_id": "DEPT_002",
+    "license_number": "RW_MD_327114",
+    "years_experience": 16,
+    "education": "MD, MSc",
+    "hire_date": "2021-04-28T23:50:30.144009",
+    "contact_info": {
+      "phone": "+250763272042",
+      "email": "valentine.nyiramana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 20970.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_552F59",
+    "first_name": "Esperance",
+    "last_name": "Tuyisenge",
+    "gender": "Female",
+    "specialty": "Orthopedics",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_627778",
+    "years_experience": 26,
+    "education": "MD",
+    "hire_date": "2024-05-12T01:30:20.133073",
+    "contact_info": {
+      "phone": "+250712507745",
+      "email": "esperance.tuyisenge@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 38079.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_D215B9",
+    "first_name": "Robert",
+    "last_name": "Nzeyimana",
+    "gender": "Male",
+    "specialty": "Gastroenterology",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_298202",
+    "years_experience": 2,
+    "education": "MD, MSc",
+    "hire_date": "2022-02-11T15:35:49.528909",
+    "contact_info": {
+      "phone": "+250799810433",
+      "email": "robert.nzeyimana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 35230.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_4CB155",
+    "first_name": "Innocent",
+    "last_name": "Uwimana",
+    "gender": "Male",
+    "specialty": "Anesthesiology",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_705711",
+    "years_experience": 13,
+    "education": "MD, MSc",
+    "hire_date": "2021-01-21T17:50:40.399058",
+    "contact_info": {
+      "phone": "+250753436070",
+      "email": "innocent.uwimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 19832.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_6822C5",
+    "first_name": "Gratien",
+    "last_name": "Rutayisire",
+    "gender": "Male",
+    "specialty": "Family Medicine",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_520106",
+    "years_experience": 21,
+    "education": "MD, MSc",
+    "hire_date": "2022-09-11T18:06:42.460815",
+    "contact_info": {
+      "phone": "+250769928180",
+      "email": "gratien.rutayisire@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 39906.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_AF39B0",
+    "first_name": "Janvier",
+    "last_name": "Mukabatsinda",
+    "gender": "Male",
+    "specialty": "Infectious Disease",
+    "department_id": "DEPT_013",
+    "license_number": "RW_MD_116112",
+    "years_experience": 25,
+    "education": "MD, MSc",
+    "hire_date": "2023-08-25T20:29:57.018477",
+    "contact_info": {
+      "phone": "+250709209640",
+      "email": "janvier.mukabatsinda@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 34236.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_FD5E21",
+    "first_name": "Louise",
+    "last_name": "Uwizeye",
+    "gender": "Female",
+    "specialty": "Emergency Medicine",
+    "department_id": "DEPT_006",
+    "license_number": "RW_MD_913274",
+    "years_experience": 16,
+    "education": "MD, MSc",
+    "hire_date": "2021-01-02T07:14:39.127164",
+    "contact_info": {
+      "phone": "+250761836850",
+      "email": "louise.uwizeye@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 45171.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_E3C32E",
+    "first_name": "Solange",
+    "last_name": "Ntaganda",
+    "gender": "Female",
+    "specialty": "Oncology",
+    "department_id": "DEPT_003",
+    "license_number": "RW_MD_882401",
+    "years_experience": 23,
+    "education": "MD",
+    "hire_date": "2021-07-23T04:39:17.099894",
+    "contact_info": {
+      "phone": "+250766974557",
+      "email": "solange.ntaganda@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 21988.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_1372A3",
+    "first_name": "Pascal",
+    "last_name": "Ntaganda",
+    "gender": "Male",
+    "specialty": "Dermatology",
+    "department_id": "DEPT_005",
+    "license_number": "RW_MD_901387",
+    "years_experience": 18,
+    "education": "MD, PhD",
+    "hire_date": "2024-12-22T03:25:31.462705",
+    "contact_info": {
+      "phone": "+250753402482",
+      "email": "pascal.ntaganda@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 41256.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_FEF4B4",
+    "first_name": "Emmanuel",
+    "last_name": "Harerimana",
+    "gender": "Male",
+    "specialty": "Pathology",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_459762",
+    "years_experience": 13,
+    "education": "MD",
+    "hire_date": "2023-04-01T16:15:21.592769",
+    "contact_info": {
+      "phone": "+250766943778",
+      "email": "emmanuel.harerimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 22369.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_1D07EC",
+    "first_name": "Marceline",
+    "last_name": "Kanyange",
+    "gender": "Female",
+    "specialty": "Internal Medicine",
+    "department_id": "DEPT_014",
+    "license_number": "RW_MD_923481",
+    "years_experience": 17,
+    "education": "MD, PhD",
+    "hire_date": "2022-03-10T23:17:53.078889",
+    "contact_info": {
+      "phone": "+250733685164",
+      "email": "marceline.kanyange@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 45048.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_19B958",
+    "first_name": "Fabrice",
+    "last_name": "Nshimiyimana",
+    "gender": "Male",
+    "specialty": "Orthopedics",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_440881",
+    "years_experience": 23,
+    "education": "MD, MSc",
+    "hire_date": "2022-08-03T02:14:37.167157",
+    "contact_info": {
+      "phone": "+250765430302",
+      "email": "fabrice.nshimiyimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 30643.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_D1B12B",
+    "first_name": "Fabrice",
+    "last_name": "Nsabimana",
+    "gender": "Male",
+    "specialty": "Family Medicine",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_572161",
+    "years_experience": 15,
+    "education": "MD",
+    "hire_date": "2020-08-08T22:53:16.367031",
+    "contact_info": {
+      "phone": "+250724680787",
+      "email": "fabrice.nsabimana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 19376.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_1A9A71",
+    "first_name": "Fidele",
+    "last_name": "Ntaganda",
+    "gender": "Male",
+    "specialty": "Oncology",
+    "department_id": "DEPT_003",
+    "license_number": "RW_MD_129959",
+    "years_experience": 3,
+    "education": "MD, MSc",
+    "hire_date": "2021-02-14T07:08:09.953055",
+    "contact_info": {
+      "phone": "+250747894420",
+      "email": "fidele.ntaganda@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 45248.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_DAA760",
+    "first_name": "Zainab",
+    "last_name": "Uwizeye",
+    "gender": "Female",
+    "specialty": "Endocrinology",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_460589",
+    "years_experience": 11,
+    "education": "MD, PhD",
+    "hire_date": "2021-09-09T08:15:42.031980",
+    "contact_info": {
+      "phone": "+250771819757",
+      "email": "zainab.uwizeye@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 39072.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_6D87D9",
+    "first_name": "Valentine",
+    "last_name": "Munyangabe",
+    "gender": "Female",
+    "specialty": "Cardiology",
+    "department_id": "DEPT_009",
+    "license_number": "RW_MD_398505",
+    "years_experience": 22,
+    "education": "MD, MSc",
+    "hire_date": "2022-12-10T06:02:28.599611",
+    "contact_info": {
+      "phone": "+250771396350",
+      "email": "valentine.munyangabe@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 29452.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_C35F8A",
+    "first_name": "Christian",
+    "last_name": "Bizimungu",
+    "gender": "Male",
+    "specialty": "Surgery",
+    "department_id": "DEPT_015",
+    "license_number": "RW_MD_489438",
+    "years_experience": 16,
+    "education": "MD, MSc",
+    "hire_date": "2021-02-24T04:32:52.948725",
+    "contact_info": {
+      "phone": "+250704259684",
+      "email": "christian.bizimungu@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 17808.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_7643ED",
+    "first_name": "Emmanuel",
+    "last_name": "Uwizeye",
+    "gender": "Male",
+    "specialty": "Anesthesiology",
+    "department_id": "DEPT_006",
+    "license_number": "RW_MD_438756",
+    "years_experience": 7,
+    "education": "MD, MSc",
+    "hire_date": "2021-02-06T02:48:23.962338",
+    "contact_info": {
+      "phone": "+250797742326",
+      "email": "emmanuel.uwizeye@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 41065.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_A338D3",
+    "first_name": "Claude",
+    "last_name": "Nyampinga",
+    "gender": "Male",
+    "specialty": "Surgery",
+    "department_id": "DEPT_003",
+    "license_number": "RW_MD_819265",
+    "years_experience": 21,
+    "education": "MD, PhD",
+    "hire_date": "2020-05-09T15:12:03.604535",
+    "contact_info": {
+      "phone": "+250783903841",
+      "email": "claude.nyampinga@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 17092.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_FFC25D",
+    "first_name": "Francois",
+    "last_name": "Murekezi",
+    "gender": "Male",
+    "specialty": "Pediatrics",
+    "department_id": "DEPT_018",
+    "license_number": "RW_MD_388698",
+    "years_experience": 29,
+    "education": "MD, MSc",
+    "hire_date": "2023-02-26T09:27:21.597857",
+    "contact_info": {
+      "phone": "+250774426456",
+      "email": "francois.murekezi@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 17411.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_4D1214",
+    "first_name": "Paul",
+    "last_name": "Nsabimana",
+    "gender": "Male",
+    "specialty": "Internal Medicine",
+    "department_id": "DEPT_014",
+    "license_number": "RW_MD_215830",
+    "years_experience": 5,
+    "education": "MD, MSc",
+    "hire_date": "2021-02-22T01:08:41.041464",
+    "contact_info": {
+      "phone": "+250788434857",
+      "email": "paul.nsabimana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 16532.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_A068A9",
+    "first_name": "Christian",
+    "last_name": "Niyonzima",
+    "gender": "Male",
+    "specialty": "Dermatology",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_536158",
+    "years_experience": 28,
+    "education": "MD, PhD",
+    "hire_date": "2024-07-11T07:07:35.939930",
+    "contact_info": {
+      "phone": "+250795084373",
+      "email": "christian.niyonzima@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 43828.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_14D62F",
+    "first_name": "Yvette",
+    "last_name": "Niyonzima",
+    "gender": "Female",
+    "specialty": "Oncology",
+    "department_id": "DEPT_001",
+    "license_number": "RW_MD_274912",
+    "years_experience": 27,
+    "education": "MD",
+    "hire_date": "2024-04-18T16:39:42.410593",
+    "contact_info": {
+      "phone": "+250773815115",
+      "email": "yvette.niyonzima@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 32664.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_753DD1",
+    "first_name": "Faustin",
+    "last_name": "Twagirumukiza",
+    "gender": "Male",
+    "specialty": "Psychiatry",
+    "department_id": "DEPT_008",
+    "license_number": "RW_MD_642752",
+    "years_experience": 6,
+    "education": "MD, PhD",
+    "hire_date": "2020-05-09T09:15:09.005473",
+    "contact_info": {
+      "phone": "+250700881653",
+      "email": "faustin.twagirumukiza@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 49454.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_B659A0",
+    "first_name": "Pascal",
+    "last_name": "Kayitesi",
+    "gender": "Male",
+    "specialty": "Cardiology",
+    "department_id": "DEPT_014",
+    "license_number": "RW_MD_931420",
+    "years_experience": 17,
+    "education": "MD",
+    "hire_date": "2021-03-10T14:18:54.347713",
+    "contact_info": {
+      "phone": "+250765535348",
+      "email": "pascal.kayitesi@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 39600.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_6171FD",
+    "first_name": "Bosco",
+    "last_name": "Munyangabe",
+    "gender": "Male",
+    "specialty": "Neurology",
+    "department_id": "DEPT_003",
+    "license_number": "RW_MD_442707",
+    "years_experience": 18,
+    "education": "MD, MSc",
+    "hire_date": "2023-05-06T13:16:55.761802",
+    "contact_info": {
+      "phone": "+250729634895",
+      "email": "bosco.munyangabe@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 16768.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_21FA51",
+    "first_name": "Sandrine",
+    "last_name": "Sibomana",
+    "gender": "Female",
+    "specialty": "Gastroenterology",
+    "department_id": "DEPT_016",
+    "license_number": "RW_MD_358207",
+    "years_experience": 9,
+    "education": "MD",
+    "hire_date": "2021-01-26T04:42:49.846328",
+    "contact_info": {
+      "phone": "+250735736421",
+      "email": "sandrine.sibomana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 26319.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_B54733",
+    "first_name": "Samuel",
+    "last_name": "Munyakazi",
+    "gender": "Male",
+    "specialty": "Pathology",
+    "department_id": "DEPT_015",
+    "license_number": "RW_MD_254850",
+    "years_experience": 29,
+    "education": "MD, PhD",
+    "hire_date": "2020-08-29T14:26:04.050692",
+    "contact_info": {
+      "phone": "+250701843251",
+      "email": "samuel.munyakazi@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 39283.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_00088B",
+    "first_name": "Vincent",
+    "last_name": "Twagirumukiza",
+    "gender": "Male",
+    "specialty": "Infectious Disease",
+    "department_id": "DEPT_019",
+    "license_number": "RW_MD_108739",
+    "years_experience": 4,
+    "education": "MD, PhD",
+    "hire_date": "2024-09-04T05:58:33.885146",
+    "contact_info": {
+      "phone": "+250788633740",
+      "email": "vincent.twagirumukiza@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 38204.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_537DAA",
+    "first_name": "Josephine",
+    "last_name": "Mukamana",
+    "gender": "Female",
+    "specialty": "Surgery",
+    "department_id": "DEPT_009",
+    "license_number": "RW_MD_817552",
+    "years_experience": 13,
+    "education": "MD, PhD",
+    "hire_date": "2022-11-08T17:23:33.078794",
+    "contact_info": {
+      "phone": "+250783917080",
+      "email": "josephine.mukamana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 23267.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_41756C",
+    "first_name": "Chantal",
+    "last_name": "Ntaganda",
+    "gender": "Female",
+    "specialty": "Anesthesiology",
+    "department_id": "DEPT_005",
+    "license_number": "RW_MD_316800",
+    "years_experience": 22,
+    "education": "MD",
+    "hire_date": "2022-05-13T02:20:06.205517",
+    "contact_info": {
+      "phone": "+250777984620",
+      "email": "chantal.ntaganda@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 38942.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_1EF3EC",
+    "first_name": "Pascal",
+    "last_name": "Bizimungu",
+    "gender": "Male",
+    "specialty": "Surgery",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_564523",
+    "years_experience": 25,
+    "education": "MD, MSc",
+    "hire_date": "2023-12-03T17:09:41.940425",
+    "contact_info": {
+      "phone": "+250799098265",
+      "email": "pascal.bizimungu@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 20318.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_330449",
+    "first_name": "Samuel",
+    "last_name": "Bizimungu",
+    "gender": "Male",
+    "specialty": "Orthopedics",
+    "department_id": "DEPT_015",
+    "license_number": "RW_MD_901677",
+    "years_experience": 2,
+    "education": "MD, PhD",
+    "hire_date": "2024-01-14T11:44:54.348451",
+    "contact_info": {
+      "phone": "+250755437830",
+      "email": "samuel.bizimungu@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 40983.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_7D6F30",
+    "first_name": "Janvier",
+    "last_name": "Nyiramana",
+    "gender": "Male",
+    "specialty": "Oncology",
+    "department_id": "DEPT_000",
+    "license_number": "RW_MD_573546",
+    "years_experience": 16,
+    "education": "MD",
+    "hire_date": "2020-12-13T16:31:26.713182",
+    "contact_info": {
+      "phone": "+250732980201",
+      "email": "janvier.nyiramana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 33825.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_74CAE0",
+    "first_name": "Faustin",
+    "last_name": "Gasana",
+    "gender": "Male",
+    "specialty": "Gastroenterology",
+    "department_id": "DEPT_014",
+    "license_number": "RW_MD_241879",
+    "years_experience": 14,
+    "education": "MD, PhD",
+    "hire_date": "2020-06-25T23:53:45.609950",
+    "contact_info": {
+      "phone": "+250743414191",
+      "email": "faustin.gasana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 15872.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_58EDAE",
+    "first_name": "Agnes",
+    "last_name": "Uwimana",
+    "gender": "Female",
+    "specialty": "Oncology",
+    "department_id": "DEPT_002",
+    "license_number": "RW_MD_269999",
+    "years_experience": 29,
+    "education": "MD",
+    "hire_date": "2022-02-26T02:23:13.263998",
+    "contact_info": {
+      "phone": "+250724007090",
+      "email": "agnes.uwimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 16796.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_9D6525",
+    "first_name": "Ingabire",
+    "last_name": "Twagirumukiza",
+    "gender": "Female",
+    "specialty": "Surgery",
+    "department_id": "DEPT_018",
+    "license_number": "RW_MD_959959",
+    "years_experience": 28,
+    "education": "MD",
+    "hire_date": "2022-02-12T10:54:34.470810",
+    "contact_info": {
+      "phone": "+250706565770",
+      "email": "ingabire.twagirumukiza@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 20189.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_5E33B7",
+    "first_name": "Immaculee",
+    "last_name": "Mukamusoni",
+    "gender": "Female",
+    "specialty": "Neurology",
+    "department_id": "DEPT_007",
+    "license_number": "RW_MD_960109",
+    "years_experience": 4,
+    "education": "MD, PhD",
+    "hire_date": "2022-05-02T18:53:20.587341",
+    "contact_info": {
+      "phone": "+250773882978",
+      "email": "immaculee.mukamusoni@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 25249.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_5E44FA",
+    "first_name": "Samuel",
+    "last_name": "Uwizeye",
+    "gender": "Male",
+    "specialty": "Radiology",
+    "department_id": "DEPT_019",
+    "license_number": "RW_MD_644951",
+    "years_experience": 25,
+    "education": "MD, MSc",
+    "hire_date": "2023-08-24T07:01:12.096223",
+    "contact_info": {
+      "phone": "+250766805681",
+      "email": "samuel.uwizeye@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 43279.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_4440E5",
+    "first_name": "Francois",
+    "last_name": "Nsabimana",
+    "gender": "Male",
+    "specialty": "Dermatology",
+    "department_id": "DEPT_013",
+    "license_number": "RW_MD_457943",
+    "years_experience": 14,
+    "education": "MD, MSc",
+    "hire_date": "2023-05-14T13:31:40.514094",
+    "contact_info": {
+      "phone": "+250776359356",
+      "email": "francois.nsabimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 48604.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_665101",
+    "first_name": "Joseph",
+    "last_name": "Byukusenge",
+    "gender": "Male",
+    "specialty": "Radiology",
+    "department_id": "DEPT_005",
+    "license_number": "RW_MD_938373",
+    "years_experience": 30,
+    "education": "MD, PhD",
+    "hire_date": "2024-12-02T02:03:22.402447",
+    "contact_info": {
+      "phone": "+250708886963",
+      "email": "joseph.byukusenge@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 24816.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_9CB66F",
+    "first_name": "Gilbert",
+    "last_name": "Gasana",
+    "gender": "Male",
+    "specialty": "Endocrinology",
+    "department_id": "DEPT_008",
+    "license_number": "RW_MD_565330",
+    "years_experience": 18,
+    "education": "MD",
+    "hire_date": "2020-06-28T17:03:53.227309",
+    "contact_info": {
+      "phone": "+250764781956",
+      "email": "gilbert.gasana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 20393.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_5C1743",
+    "first_name": "Valentine",
+    "last_name": "Harerimana",
+    "gender": "Female",
+    "specialty": "Surgery",
+    "department_id": "DEPT_018",
+    "license_number": "RW_MD_881770",
+    "years_experience": 11,
+    "education": "MD",
+    "hire_date": "2022-01-05T04:28:30.240659",
+    "contact_info": {
+      "phone": "+250777518768",
+      "email": "valentine.harerimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 37360.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_4D0755",
+    "first_name": "Gilbert",
+    "last_name": "Habimana",
+    "gender": "Male",
+    "specialty": "Dermatology",
+    "department_id": "DEPT_017",
+    "license_number": "RW_MD_153190",
+    "years_experience": 6,
+    "education": "MD",
+    "hire_date": "2021-09-11T13:35:50.563784",
+    "contact_info": {
+      "phone": "+250763181059",
+      "email": "gilbert.habimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 16766.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_82B071",
+    "first_name": "Chantal",
+    "last_name": "Murekatete",
+    "gender": "Female",
+    "specialty": "Pathology",
+    "department_id": "DEPT_013",
+    "license_number": "RW_MD_817727",
+    "years_experience": 22,
+    "education": "MD, MSc",
+    "hire_date": "2024-04-22T09:56:14.039249",
+    "contact_info": {
+      "phone": "+250762464469",
+      "email": "chantal.murekatete@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 23109.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_1F8B90",
+    "first_name": "David",
+    "last_name": "Ntaganda",
+    "gender": "Male",
+    "specialty": "Psychiatry",
+    "department_id": "DEPT_011",
+    "license_number": "RW_MD_658624",
+    "years_experience": 16,
+    "education": "MD, PhD",
+    "hire_date": "2021-03-30T01:06:54.639801",
+    "contact_info": {
+      "phone": "+250779260394",
+      "email": "david.ntaganda@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 23350.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_9701DD",
+    "first_name": "Faustin",
+    "last_name": "Nsengimana",
+    "gender": "Male",
+    "specialty": "Infectious Disease",
+    "department_id": "DEPT_019",
+    "license_number": "RW_MD_172988",
+    "years_experience": 21,
+    "education": "MD",
+    "hire_date": "2020-12-13T07:42:54.732636",
+    "contact_info": {
+      "phone": "+250792007417",
+      "email": "faustin.nsengimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 41997.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_099E78",
+    "first_name": "Jacqueline",
+    "last_name": "Mutabazi",
+    "gender": "Female",
+    "specialty": "Neurology",
+    "department_id": "DEPT_006",
+    "license_number": "RW_MD_193624",
+    "years_experience": 20,
+    "education": "MD",
+    "hire_date": "2022-03-30T04:02:24.432861",
+    "contact_info": {
+      "phone": "+250782072899",
+      "email": "jacqueline.mutabazi@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 29147.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_56EEE7",
+    "first_name": "Pascal",
+    "last_name": "Nsabimana",
+    "gender": "Male",
+    "specialty": "Neurology",
+    "department_id": "DEPT_009",
+    "license_number": "RW_MD_980764",
+    "years_experience": 15,
+    "education": "MD",
+    "hire_date": "2022-02-09T08:32:27.542771",
+    "contact_info": {
+      "phone": "+250738717904",
+      "email": "pascal.nsabimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 19394.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_5108C8",
+    "first_name": "Patrick",
+    "last_name": "Mukamana",
+    "gender": "Male",
+    "specialty": "Obstetrics",
+    "department_id": "DEPT_005",
+    "license_number": "RW_MD_846722",
+    "years_experience": 18,
+    "education": "MD, PhD",
+    "hire_date": "2021-05-23T14:57:44.711582",
+    "contact_info": {
+      "phone": "+250755141717",
+      "email": "patrick.mukamana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 35172.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_D8FF85",
+    "first_name": "Emmanuel",
+    "last_name": "Sibomana",
+    "gender": "Male",
+    "specialty": "Infectious Disease",
+    "department_id": "DEPT_010",
+    "license_number": "RW_MD_742818",
+    "years_experience": 3,
+    "education": "MD, PhD",
+    "hire_date": "2021-04-01T03:31:03.979147",
+    "contact_info": {
+      "phone": "+250771810948",
+      "email": "emmanuel.sibomana@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 31410.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_AB7779",
+    "first_name": "Kevine",
+    "last_name": "Munyakazi",
+    "gender": "Female",
+    "specialty": "Psychiatry",
+    "department_id": "DEPT_011",
+    "license_number": "RW_MD_364294",
+    "years_experience": 6,
+    "education": "MD, MSc",
+    "hire_date": "2024-08-12T21:11:29.841619",
+    "contact_info": {
+      "phone": "+250737711414",
+      "email": "kevine.munyakazi@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 45025.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_8295C5",
+    "first_name": "Gratien",
+    "last_name": "Nyirahabimana",
+    "gender": "Male",
+    "specialty": "Pulmonology",
+    "department_id": "DEPT_019",
+    "license_number": "RW_MD_861265",
+    "years_experience": 22,
+    "education": "MD",
+    "hire_date": "2022-03-20T03:45:42.376402",
+    "contact_info": {
+      "phone": "+250728300713",
+      "email": "gratien.nyirahabimana@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 40703.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_95A38A",
+    "first_name": "Chantal",
+    "last_name": "Ntaganda",
+    "gender": "Female",
+    "specialty": "Pediatrics",
+    "department_id": "DEPT_013",
+    "license_number": "RW_MD_768387",
+    "years_experience": 13,
+    "education": "MD, PhD",
+    "hire_date": "2024-04-21T19:45:47.401497",
+    "contact_info": {
+      "phone": "+250781937985",
+      "email": "chantal.ntaganda@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 45042.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_418CB9",
+    "first_name": "Gisele",
+    "last_name": "Uwizeye",
+    "gender": "Female",
+    "specialty": "Pediatrics",
+    "department_id": "DEPT_005",
+    "license_number": "RW_MD_302458",
+    "years_experience": 3,
+    "education": "MD",
+    "hire_date": "2022-10-01T21:27:23.374088",
+    "contact_info": {
+      "phone": "+250783134088",
+      "email": "gisele.uwizeye@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 16991.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_F2342F",
+    "first_name": "Bosco",
+    "last_name": "Nyirahabimana",
+    "gender": "Male",
+    "specialty": "Pediatrics",
+    "department_id": "DEPT_003",
+    "license_number": "RW_MD_390756",
+    "years_experience": 26,
+    "education": "MD",
+    "hire_date": "2020-04-02T08:58:58.631154",
+    "contact_info": {
+      "phone": "+250751378412",
+      "email": "bosco.nyirahabimana@chuk.rw"
+    },
+    "shift_pattern": "Night",
+    "consultation_fee": 26643.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_BBB64C",
+    "first_name": "Claude",
+    "last_name": "Ntaganda",
+    "gender": "Male",
+    "specialty": "Orthopedics",
+    "department_id": "DEPT_004",
+    "license_number": "RW_MD_139673",
+    "years_experience": 23,
+    "education": "MD, PhD",
+    "hire_date": "2024-12-29T16:33:17.624590",
+    "contact_info": {
+      "phone": "+250735760499",
+      "email": "claude.ntaganda@chuk.rw"
+    },
+    "shift_pattern": "Day",
+    "consultation_fee": 39502.0
+  },
+  {
+    "doctor_id": "CHUK_DOC_BF5427",
+    "first_name": "Marie",
+    "last_name": "Niyigena",
+    "gender": "Female",
+    "specialty": "Infectious Disease",
+    "department_id": "DEPT_009",
+    "license_number": "RW_MD_184365",
+    "years_experience": 28,
+    "education": "MD, PhD",
+    "hire_date": "2024-03-06T14:04:22.398758",
+    "contact_info": {
+      "phone": "+250738917593",
+      "email": "marie.niyigena@chuk.rw"
+    },
+    "shift_pattern": "Rotating",
+    "consultation_fee": 22109.0
+  }
+]
